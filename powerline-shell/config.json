@@ -1,0 +1,7 @@
+{
+  "segments": [
+    "username",
+    "cwd"
+  ],
+  "theme": "~/.config/powerline-shell/theme/nord.py"
+}
