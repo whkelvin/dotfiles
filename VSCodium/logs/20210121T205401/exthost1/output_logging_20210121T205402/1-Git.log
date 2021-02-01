@@ -1,0 +1,1213 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/styles/global.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+> git cat-file -s 39fae0ed3f58c52252bff216441a32e1f021e042
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+> git check-ignore -v -z --stdin
+> git show --textconv :gatsby-config.js
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/gatsby-config.js
+> git cat-file -s 435a47fc59404ef1918a41ce42cc6af41c2754ef
+> git show --textconv :src/components/content.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx
+> git cat-file -s 043423c36f2479e5428000a1db7c350325c0e1a5
+> git show --textconv :src/components/content.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx
+> git cat-file -s 043423c36f2479e5428000a1db7c350325c0e1a5
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git cat-file -s ec0eeb49c2624f8ad050fe4529b7423f37e80bf6
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :static/mds/DesktopEnvironment/Gnome/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/DesktopEnvironment/Gnome/content.md
+> git cat-file -s 4fb109b8d64bf9e2e056c73a3dd4b20de191bf5a
+> git show --textconv :src/styles/_variables.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/_variables.scss
+> git cat-file -s c01b33e1e8e6a0962e222a91ab92e49683d92862
+> git show --textconv :src/styles/global.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+> git cat-file -s 39fae0ed3f58c52252bff216441a32e1f021e042
+> git show --textconv :src/components/content.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx
+> git cat-file -s 043423c36f2479e5428000a1db7c350325c0e1a5
+> git show --textconv :src/components/content.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s f1612bb393dae3f741f8b52f75ca38e1fee69db7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/sidebar.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/sidebar.module.scss
+> git cat-file -s 1a8835256a71def1163b94ad5767a6f9f4429b9c
+> git show --textconv :src/components/content.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s f1612bb393dae3f741f8b52f75ca38e1fee69db7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :static/mds/DesktopEnvironment/Gnome/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/DesktopEnvironment/Gnome/content.md
+> git cat-file -s 4fb109b8d64bf9e2e056c73a3dd4b20de191bf5a
+> git show --textconv :src/components/content.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s f1612bb393dae3f741f8b52f75ca38e1fee69db7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/content.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s f1612bb393dae3f741f8b52f75ca38e1fee69db7
+> git show --textconv :static/mds/DesktopEnvironment/Gnome/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/DesktopEnvironment/Gnome/content.md
+> git cat-file -s 4fb109b8d64bf9e2e056c73a3dd4b20de191bf5a
+> git show --textconv :src/components/content.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s f1612bb393dae3f741f8b52f75ca38e1fee69db7
+> git show --textconv :src/components/sidebar.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/sidebar.module.scss
+> git cat-file -s 1a8835256a71def1163b94ad5767a6f9f4429b9c
+> git show --textconv :src/components/content.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s f1612bb393dae3f741f8b52f75ca38e1fee69db7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s eb05461c06dd3e1eac048f7c01bd7becceb88e3a
+> git show --textconv :src/components/content.module.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:src/components/content.module.scss
+> git show --textconv :src/components/content.module.scss
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s eb05461c06dd3e1eac048f7c01bd7becceb88e3a
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git show --textconv :static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git cat-file -s 60f338aab7ef4743f7507611ee79d4d04c4a9cfe
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git cat-file -s 60f338aab7ef4743f7507611ee79d4d04c4a9cfe
+> git show --textconv HEAD:static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git show --textconv :static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git cat-file -s 60f338aab7ef4743f7507611ee79d4d04c4a9cfe
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git cat-file -s 60f338aab7ef4743f7507611ee79d4d04c4a9cfe
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git status -z -u
+> git cat-file -s 60f338aab7ef4743f7507611ee79d4d04c4a9cfe
+> git symbolic-ref --short HEAD
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git show --textconv HEAD:static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git rev-parse master
+> git show --textconv :static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git cat-file -s 60f338aab7ef4743f7507611ee79d4d04c4a9cfe
+> git rev-parse --symbolic-full-name master@{u}
+> git show --textconv HEAD:static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git rev-list --left-right master...refs/remotes/origin/master
+> git show --textconv :static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/content.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s eb05461c06dd3e1eac048f7c01bd7becceb88e3a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/styles/global.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+> git cat-file -s 39fae0ed3f58c52252bff216441a32e1f021e042
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+> git cat-file -s c92f6910337837e8e915983e91519eac2be968ba
+> git show --textconv :src/styles/global.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+> git cat-file -s c92f6910337837e8e915983e91519eac2be968ba
+> git show --textconv :src/styles/global.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+> git cat-file -s c92f6910337837e8e915983e91519eac2be968ba
+> git show --textconv :src/styles/global.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s cef4d104e1af88ae79a65c6d432780cb1f7875a5
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s cef4d104e1af88ae79a65c6d432780cb1f7875a5
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s cef4d104e1af88ae79a65c6d432780cb1f7875a5
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s cef4d104e1af88ae79a65c6d432780cb1f7875a5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s 2767993e43ed14ced89f960536012939a354ac54
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s 2767993e43ed14ced89f960536012939a354ac54
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s 2767993e43ed14ced89f960536012939a354ac54
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:static/mds/TerminalEmulator/content.md
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s 2767993e43ed14ced89f960536012939a354ac54
+> git show --textconv :src/styles/global.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+> git cat-file -s c92f6910337837e8e915983e91519eac2be968ba
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+> git cat-file -s c92f6910337837e8e915983e91519eac2be968ba
+> git show --textconv :src/styles/global.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+> git cat-file -s c92f6910337837e8e915983e91519eac2be968ba
+> git show --textconv :src/styles/global.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+> git symbolic-ref --short HEAD
+> git cat-file -s c92f6910337837e8e915983e91519eac2be968ba
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git show --textconv :src/styles/global.scss
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/pages/404.js
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/pages/404.js
+> git cat-file -s 053ae0e831ee98e1cd87f095274066af6017bb38
+> git show --textconv :src/pages/index.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/pages/index.jsx
+> git cat-file -s 4c58161cb1f6d8c5c2e96563d7ed620bb0ba7ec1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/styles/global.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+> git cat-file -s c92f6910337837e8e915983e91519eac2be968ba
+> git show --textconv :static/mds/DesktopEnvironment/Gnome/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/DesktopEnvironment/Gnome/content.md
+> git cat-file -s 4fb109b8d64bf9e2e056c73a3dd4b20de191bf5a
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s 2cc22c1239d6e647a0e80875aa76782f2e32f917
+> git show --textconv :static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git cat-file -s 60f338aab7ef4743f7507611ee79d4d04c4a9cfe
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :static/mds/TerminalEmulator/Bash/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/Bash/content.md
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s 2cc22c1239d6e647a0e80875aa76782f2e32f917
+> git show --textconv :static/mds/TerminalEmulator/Bash/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/Bash/content.md
+> git show --textconv :static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s 2cc22c1239d6e647a0e80875aa76782f2e32f917
+> git show --textconv :static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s 2cc22c1239d6e647a0e80875aa76782f2e32f917
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s 2cc22c1239d6e647a0e80875aa76782f2e32f917
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s 2cc22c1239d6e647a0e80875aa76782f2e32f917
+> git show --textconv :static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s 2cc22c1239d6e647a0e80875aa76782f2e32f917
+> git show --textconv :static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :static/mds/DesktopEnvironment/Gnome/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/DesktopEnvironment/Gnome/content.md
+> git cat-file -s 4fb109b8d64bf9e2e056c73a3dd4b20de191bf5a
+> git show --textconv :static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git show --textconv :static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git show --textconv :static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :static/mds/DesktopEnvironment/Gnome/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/DesktopEnvironment/Gnome/content.md
+> git cat-file -s 4fb109b8d64bf9e2e056c73a3dd4b20de191bf5a
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s 2cc22c1239d6e647a0e80875aa76782f2e32f917
+> git show --textconv :static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git show --textconv :static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :gatsby-node.js
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/gatsby-node.js
+> git cat-file -s 27d84dc148e93aabaa4fc239fda3b6edf837e3b3
+> git show --textconv :gatsby-config.js
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/gatsby-config.js
+> git cat-file -s 435a47fc59404ef1918a41ce42cc6af41c2754ef
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git show --textconv :gatsby-config.js
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/gatsby-config.js
+> git cat-file -s 435a47fc59404ef1918a41ce42cc6af41c2754ef
+> git show --textconv :static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/GnomeTerminal/content.md
+> git show --textconv :gatsby-config.js
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/gatsby-config.js
+> git cat-file -s 435a47fc59404ef1918a41ce42cc6af41c2754ef
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/pages/gnomeTerminal.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/pages/gnomeTerminal.jsx
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/pages/gnomeDesktopEnvironment.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/pages/gnomeDesktopEnvironment.jsx
+> git cat-file -s 3081051e42dec57ca4eda0406887d2a7dc1b36b4
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/pages/gnomeTerminal.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/pages/gnomeTerminal.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/pages/gnomeDesktopEnvironment.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/pages/gnomeDesktopEnvironment.jsx
+> git cat-file -s 3081051e42dec57ca4eda0406887d2a7dc1b36b4
+> git show --textconv :src/pages/myUbuntuSetup.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/pages/myUbuntuSetup.jsx
+> git cat-file -s feb715446647e68e37dc01d9f616243d442df129
+> git show --textconv :static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/UbuntuConfigurationTutorial/MyUbuntuSetup/content.md
+> git cat-file -s 60f338aab7ef4743f7507611ee79d4d04c4a9cfe
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :static/mds/DesktopEnvironment/Gnome/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/DesktopEnvironment/Gnome/content.md
+> git cat-file -s 4fb109b8d64bf9e2e056c73a3dd4b20de191bf5a
+> git show --textconv :src/pages/gnomeDesktopEnvironment.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/pages/gnomeDesktopEnvironment.jsx
+> git cat-file -s 3081051e42dec57ca4eda0406887d2a7dc1b36b4
+> git show --textconv :static/mds/DesktopEnvironment/Gnome/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/DesktopEnvironment/Gnome/content.md
+> git cat-file -s 4fb109b8d64bf9e2e056c73a3dd4b20de191bf5a
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s 2cc22c1239d6e647a0e80875aa76782f2e32f917
+> git show --textconv :static/mds/DesktopEnvironment/Gnome/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/DesktopEnvironment/Gnome/content.md
+> git cat-file -s 4fb109b8d64bf9e2e056c73a3dd4b20de191bf5a
+> git show --textconv :static/mds/DesktopEnvironment/Gnome/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/DesktopEnvironment/Gnome/content.md
+> git cat-file -s 4fb109b8d64bf9e2e056c73a3dd4b20de191bf5a
+> git show --textconv :src/pages/terminalEmulator.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/pages/terminalEmulator.jsx
+> git cat-file -s 7c3697f6e7ee1896d996a72bca5fa7bc1caba3a0
+> git show --textconv :static/mds/DesktopEnvironment/Gnome/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/DesktopEnvironment/Gnome/content.md
+> git cat-file -s 4fb109b8d64bf9e2e056c73a3dd4b20de191bf5a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/content.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s eb05461c06dd3e1eac048f7c01bd7becceb88e3a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s 20684e606e898b1a62a5599507010a853518d579
+> git show --textconv :src/components/content.module.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s 20684e606e898b1a62a5599507010a853518d579
+> git show --textconv :src/components/content.module.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s 20684e606e898b1a62a5599507010a853518d579
+> git show --textconv :src/components/content.module.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

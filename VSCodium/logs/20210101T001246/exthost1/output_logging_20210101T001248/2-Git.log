@@ -1,0 +1,28 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/navbar.jsx
+> git show --textconv :src/components/layout.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/layout.jsx
+> git cat-file -s 71b1124fc4868444bbea444636245016c873ae90
+> git cat-file -s c10cf1899e25a23f60693b9f5feb4d19744d725d
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/sidebar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/sidebar.jsx
+> git cat-file -s 452bdec7124074d0b7439d168222652dd57f61af
+> git show --textconv :src/components/navbar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx
+> git cat-file -s 71b1124fc4868444bbea444636245016c873ae90
+> git show --textconv :src/components/sidebar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/sidebar.jsx
+> git cat-file -s 452bdec7124074d0b7439d168222652dd57f61af

@@ -1,0 +1,13 @@
+{
+  "terminal.integrated.fontFamily": "DejaVu Sans Mono for Powerline",
+  "terminal.integrated.fontWeight": "bold",
+  "workbench.colorTheme": "Nord",
+  "vscode-neovim.neovimExecutablePaths.linux": "/usr/local/bin/nvim-nightly",
+  "editor.minimap.enabled": false,
+  "workbench.list.automaticKeyboardNavigation": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "'DejaVu Sans Mono for Powerline'",
+  "editor.fontWeight": "bold",
+  "editor.scrollBeyondLastLine": false
+}

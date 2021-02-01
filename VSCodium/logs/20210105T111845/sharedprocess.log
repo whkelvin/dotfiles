@@ -1,0 +1,8 @@
+[2021-01-05 11:18:49.232] [sharedprocess] [info] main {"machineId":"42c6b47968cd90038aafe71f2f26b076a720d29889f7903d1c0b0b1018391f59","windowId":2}
+[2021-01-05 11:18:50.923] [sharedprocess] [info] Installing extension: asvetliakov.vscode-neovim
+[2021-01-05 11:18:52.687] [sharedprocess] [info] Downloaded extension: asvetliakov.vscode-neovim undefined
+[2021-01-05 11:18:52.772] [sharedprocess] [info] Extracted extension to /home/whkelvin/.vscode-oss/extensions/.asvetliakov.vscode-neovim-0.0.76: asvetliakov.vscode-neovim
+[2021-01-05 11:18:52.772] [sharedprocess] [info] Renamed to /home/whkelvin/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.76
+[2021-01-05 11:18:52.773] [sharedprocess] [info] Installation completed. asvetliakov.vscode-neovim
+[2021-01-05 11:18:52.791] [sharedprocess] [info] Extensions installed successfully: asvetliakov.vscode-neovim
+[2021-01-05 11:19:29.242] [sharedprocess] [info] Starting to clean up unused language packs.

@@ -1,0 +1,45 @@
+[2021-01-21 20:54:02.447] [exthost] [info] extension host started
+[2021-01-21 20:54:02.632] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:scss"}
+[2021-01-21 20:54:02.632] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-01-21 20:54:02.648] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:scss"}
+[2021-01-21 20:54:02.648] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-01-21 20:54:02.661] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-01-21 20:54:02.661] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-01-21 20:54:02.663] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-21 20:54:02.663] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/git/dist/main
+[2021-01-21 20:54:02.679] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-01-21 20:54:02.679] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-01-21 20:54:02.682] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-01-21 20:54:02.682] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/search-result/dist/extension.js
+[2021-01-21 20:54:02.683] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim {"startup":true,"extensionId":{"value":"asvetliakov.vscode-neovim","_lower":"asvetliakov.vscode-neovim"},"activationEvent":"*"}
+[2021-01-21 20:54:02.683] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/whkelvin/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.76/dist/extension.js
+[2021-01-21 20:54:02.695] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-01-21 20:54:02.695] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/npm/dist/npmMain
+[2021-01-21 20:54:02.833] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-01-21 20:54:02.833] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-01-21 20:54:02.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-21 20:54:02.923] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/github/dist/extension.js
+[2021-01-21 20:54:03.255] [exthost] [info] eager extensions activated
+[2021-01-21 20:54:03.256] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-01-21 20:54:03.256] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/whkelvin/.vscode-oss/extensions/esbenp.prettier-vscode-5.8.0/dist/extension
+[2021-01-21 20:54:05.472] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-01-21 20:54:05.472] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension
+[2021-01-21 20:54:14.939] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2021-01-21 20:54:14.939] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-01-21 20:54:14.944] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-01-21 20:54:14.944] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/markdown-language-features/dist/extension
+[2021-01-21 21:19:18.030] [exthost] [warning] TextEditor is closed/disposed
+[2021-01-21 21:25:07.981] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview {"startup":false,"extensionId":{"value":"vscode.image-preview","_lower":"vscode.image-preview"},"activationEvent":"onCustomEditor:imagePreview.previewEditor"}
+[2021-01-21 21:25:07.981] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/image-preview/dist/extension
+[2021-01-21 21:29:31.529] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-01-21 21:29:31.529] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/github-authentication/dist/extension.js
+[2021-01-21 22:14:34.633] [exthost] [warning] TextEditor is closed/disposed
+[2021-01-21 22:14:48.037] [exthost] [warning] TextEditor is closed/disposed
+[2021-01-21 22:15:11.956] [exthost] [warning] TextEditor is closed/disposed
+[2021-01-23 16:07:31.157] [exthost] [warning] TextEditor is closed/disposed
+[2021-01-23 16:09:48.353] [exthost] [warning] TextEditor is closed/disposed
+[2021-01-23 16:39:55.727] [exthost] [warning] TextEditor is closed/disposed
+[2021-01-23 16:53:36.917] [exthost] [warning] TextEditor is closed/disposed
+[2021-01-23 16:53:37.007] [exthost] [warning] TextEditor is closed/disposed
+[2021-01-23 17:43:40.027] [exthost] [warning] TextEditor is closed/disposed
+[2021-01-23 17:43:40.027] [exthost] [warning] TextEditor is closed/disposed

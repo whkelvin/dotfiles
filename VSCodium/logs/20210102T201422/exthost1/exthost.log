@@ -1,0 +1,74 @@
+[2021-01-02 20:14:23.981] [exthost] [info] extension host started
+[2021-01-02 20:14:24.058] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:scss"}
+[2021-01-02 20:14:24.058] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-01-02 20:14:24.066] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:scss"}
+[2021-01-02 20:14:24.066] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-01-02 20:14:24.075] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-01-02 20:14:24.075] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-01-02 20:14:24.076] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-02 20:14:24.076] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/git/dist/main
+[2021-01-02 20:14:24.087] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-01-02 20:14:24.088] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-01-02 20:14:24.089] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-01-02 20:14:24.089] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/search-result/dist/extension.js
+[2021-01-02 20:14:24.090] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim {"startup":true,"extensionId":{"value":"asvetliakov.vscode-neovim","_lower":"asvetliakov.vscode-neovim"},"activationEvent":"*"}
+[2021-01-02 20:14:24.090] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/whkelvin/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.73/dist/extension.js
+[2021-01-02 20:14:24.099] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-01-02 20:14:24.099] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/npm/dist/npmMain
+[2021-01-02 20:14:24.247] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-01-02 20:14:24.247] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-01-02 20:14:24.320] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-02 20:14:24.320] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/github/dist/extension.js
+[2021-01-02 20:14:24.690] [exthost] [info] eager extensions activated
+[2021-01-02 20:14:24.692] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-01-02 20:14:24.692] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/whkelvin/.vscode-oss/extensions/esbenp.prettier-vscode-5.8.0/dist/extension
+[2021-01-02 20:20:09.957] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-01-02 20:20:09.957] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-01-02 20:20:09.959] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-01-02 20:20:09.959] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-01-02 20:20:09.969] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-01-02 20:20:09.969] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension
+[2021-01-02 20:33:51.582] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-01-02 20:33:51.583] [exthost] [error] Error: <semantic> TypeScript Server Error (4.1.2)
+Debug Failure. Token and statement should start at the same point. {"statementKind":"ClassDeclaration","tokenKind":"CloseBraceToken","errorCode":7027,"start":275,"length":1}
+Error: Debug Failure. Token and statement should start at the same point. {"statementKind":"ClassDeclaration","tokenKind":"CloseBraceToken","errorCode":7027,"start":275,"length":1}
+    at doChange (/usr/share/codium/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138345:26)
+    at /usr/share/codium/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138328:96
+    at Function.ChangeTracker.with (/usr/share/codium/resources/app/extensions/node_modules/typescript/lib/tsserver.js:132349:17)
+    at Object.getCodeActions (/usr/share/codium/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138328:64)
+    at /usr/share/codium/resources/app/extensions/node_modules/typescript/lib/tsserver.js:133528:77
+    at Object.flatMap (/usr/share/codium/resources/app/extensions/node_modules/typescript/lib/tsserver.js:513:25)
+    at Object.getFixes (/usr/share/codium/resources/app/extensions/node_modules/typescript/lib/tsserver.js:133528:23)
+    at /usr/share/codium/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147037:35
+    at Object.flatMap (/usr/share/codium/resources/app/extensions/node_modules/typescript/lib/tsserver.js:513:25)
+    at Proxy.getCodeFixesAtPosition (/usr/share/codium/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147035:23)
+    at IOSession.Session.getCodeFixes (/usr/share/codium/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157976:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/codium/resources/app/extensions/node_modules/typescript/lib/tsserver.js:156653:61)
+    at /usr/share/codium/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:88
+    at IOSession.Session.executeWithRequestId (/usr/share/codium/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158267:28)
+    at IOSession.Session.executeCommand (/usr/share/codium/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158276:33)
+    at IOSession.Session.onMessage (/usr/share/codium/resources/app/extensions/node_modules/typescript/lib/tsserver.js:158300:35)
+    at Interface.<anonymous> (/usr/share/codium/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160510:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:76778)
+	at dispatchResponse (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:70653)
+	at dispatchMessage (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:69512)
+	at /usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:69022
+	at l.fire (/usr/share/codium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:801)
+	at g.onLengthData (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:45:59997)
+	at Socket.<anonymous> (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:45:59645)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2021-01-02 20:59:41.692] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-01-02 20:59:41.693] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/extension-editing/dist/extensionEditingMain

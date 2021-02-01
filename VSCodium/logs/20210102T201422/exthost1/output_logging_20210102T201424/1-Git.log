@@ -1,0 +1,270 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/content.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s 971aac823bf4b96d19843badbdd73cdf5c3e6280
+> git check-ignore -v -z --stdin
+> git show --textconv :public/render-page.js
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/public/render-page.js
+> git show --textconv :src/components/sidebar.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/sidebar.module.scss
+> git cat-file -s 4139a0819e2487274228b9437830fca3fe01be6d
+> git show --textconv :src/components/layout.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/layout.jsx
+> git cat-file -s 8c757d071693bf2d91c8b4a4ee8ec20d82aa443a
+> git show --textconv :src/components/sidebar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/sidebar.jsx
+> git cat-file -s ca4ac97dc172e9edce236a39c71035f50f1a7db0
+> git show --textconv :src/components/wrapper.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git cat-file -s 8eb2e8851ef8778ff0cf4b5e9c9be6e3949cae34
+> git show --textconv :src/components/sidebar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/sidebar.jsx
+> git cat-file -s ca4ac97dc172e9edce236a39c71035f50f1a7db0
+> git show --textconv :src/components/layout.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/layout.jsx
+> git cat-file -s 8c757d071693bf2d91c8b4a4ee8ec20d82aa443a
+> git show --textconv :src/components/navbar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx
+> git cat-file -s ac3fd874c5ad505fc57697c1b9d75069ffd70563
+> git show --textconv :src/components/navbar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx
+> git cat-file -s ac3fd874c5ad505fc57697c1b9d75069ffd70563
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/navbar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx
+> git cat-file -s ac3fd874c5ad505fc57697c1b9d75069ffd70563
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx
+> git show --textconv :src/components/layout.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/layout.jsx
+> git cat-file -s 8c757d071693bf2d91c8b4a4ee8ec20d82aa443a
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/layout.jsx
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/layout.jsx
+> git show --textconv :src/components/navbar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx
+> git cat-file -s ac3fd874c5ad505fc57697c1b9d75069ffd70563
+> git show --textconv :src/components/layout.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/layout.jsx
+> git cat-file -s 8c757d071693bf2d91c8b4a4ee8ec20d82aa443a
+> git show --textconv :src/components/layout.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/layout.jsx
+> git cat-file -s 8c757d071693bf2d91c8b4a4ee8ec20d82aa443a
+> git show --textconv :src/components/layout.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/layout.jsx
+> git cat-file -s 8c757d071693bf2d91c8b4a4ee8ec20d82aa443a
+> git show --textconv :src/components/sidebar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/sidebar.jsx
+> git cat-file -s ca4ac97dc172e9edce236a39c71035f50f1a7db0
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/sidebar.jsx
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/sidebar.jsx
+> git show --textconv :src/components/layout.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/layout.jsx
+> git cat-file -s 8c757d071693bf2d91c8b4a4ee8ec20d82aa443a
+> git show --textconv :src/components/layout.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/layout.jsx
+> git cat-file -s 8c757d071693bf2d91c8b4a4ee8ec20d82aa443a
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/layout.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/layout.jsx
+> git cat-file -s 8c757d071693bf2d91c8b4a4ee8ec20d82aa443a
+> git show --textconv :src/components/layout.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/layout.jsx
+> git cat-file -s 8c757d071693bf2d91c8b4a4ee8ec20d82aa443a
+> git show --textconv :src/components/layout.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/layout.jsx
+> git cat-file -s 8c757d071693bf2d91c8b4a4ee8ec20d82aa443a
+> git show --textconv :src/components/layout.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/layout.jsx
+> git cat-file -s 8c757d071693bf2d91c8b4a4ee8ec20d82aa443a
+> git show --textconv :src/components/sidebar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/sidebar.jsx
+> git cat-file -s ca4ac97dc172e9edce236a39c71035f50f1a7db0
+> git show --textconv :src/components/sidebar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/sidebar.jsx
+> git cat-file -s ca4ac97dc172e9edce236a39c71035f50f1a7db0
+> git show --textconv :src/components/sidebar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/sidebar.jsx
+> git cat-file -s ca4ac97dc172e9edce236a39c71035f50f1a7db0
+> git show --textconv :src/components/sidebar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/sidebar.jsx
+> git cat-file -s ca4ac97dc172e9edce236a39c71035f50f1a7db0
+> git show --textconv :src/components/sidebar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/sidebar.jsx
+> git cat-file -s ca4ac97dc172e9edce236a39c71035f50f1a7db0
+> git show --textconv :src/components/wrapper.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git cat-file -s 8eb2e8851ef8778ff0cf4b5e9c9be6e3949cae34
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git show --textconv :src/components/sidebar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/sidebar.jsx
+> git cat-file -s ca4ac97dc172e9edce236a39c71035f50f1a7db0
+> git show --textconv :src/components/navbar.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git cat-file -s 7476e1e28b153e7085002af017cab223502ed7ee
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git show --textconv :src/components/wrapper.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git cat-file -s 8eb2e8851ef8778ff0cf4b5e9c9be6e3949cae34
+> git show --textconv :src/components/navbar.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git cat-file -s 7476e1e28b153e7085002af017cab223502ed7ee
+> git show --textconv :src/components/wrapper.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git cat-file -s 8eb2e8851ef8778ff0cf4b5e9c9be6e3949cae34
+> git show --textconv :src/components/navbar.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git cat-file -s 7476e1e28b153e7085002af017cab223502ed7ee
+> git show --textconv :src/components/wrapper.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git cat-file -s 8eb2e8851ef8778ff0cf4b5e9c9be6e3949cae34
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git show --textconv :src/components/navbar.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git cat-file -s 7476e1e28b153e7085002af017cab223502ed7ee
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git show --textconv :src/components/navbar.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git cat-file -s 7476e1e28b153e7085002af017cab223502ed7ee
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git show --textconv :src/components/navbar.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git cat-file -s 7476e1e28b153e7085002af017cab223502ed7ee
+> git show --textconv :src/components/wrapper.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git cat-file -s 8eb2e8851ef8778ff0cf4b5e9c9be6e3949cae34
+> git show --textconv :src/components/navbar.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git cat-file -s 7476e1e28b153e7085002af017cab223502ed7ee
+> git show --textconv :src/components/wrapper.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git cat-file -s 8eb2e8851ef8778ff0cf4b5e9c9be6e3949cae34
+> git show --textconv :src/components/navbar.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git cat-file -s 7476e1e28b153e7085002af017cab223502ed7ee
+> git show --textconv :src/components/wrapper.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git cat-file -s 8eb2e8851ef8778ff0cf4b5e9c9be6e3949cae34
+> git show --textconv :src/components/navbar.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git cat-file -s 7476e1e28b153e7085002af017cab223502ed7ee
+> git show --textconv :src/components/wrapper.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git cat-file -s 8eb2e8851ef8778ff0cf4b5e9c9be6e3949cae34
+> git show --textconv :src/components/navbar.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git cat-file -s 7476e1e28b153e7085002af017cab223502ed7ee
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/wrapper.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git cat-file -s 8eb2e8851ef8778ff0cf4b5e9c9be6e3949cae34
+> git show --textconv :src/components/navbar.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git cat-file -s 7476e1e28b153e7085002af017cab223502ed7ee
+> git show --textconv :src/components/wrapper.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git cat-file -s 8eb2e8851ef8778ff0cf4b5e9c9be6e3949cae34
+> git show --textconv :src/components/navbar.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git cat-file -s 7476e1e28b153e7085002af017cab223502ed7ee
+> git show --textconv :src/components/navbar.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git cat-file -s 7476e1e28b153e7085002af017cab223502ed7ee
+> git show --textconv :src/components/navbar.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git cat-file -s 7476e1e28b153e7085002af017cab223502ed7ee
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git cat-file -s 7476e1e28b153e7085002af017cab223502ed7ee
+> git show --textconv :src/components/navbar.module.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.module.scss
+> git cat-file -s 7476e1e28b153e7085002af017cab223502ed7ee
+> git show --textconv :src/components/navbar.module.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/wrapper.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/wrapper.module.scss
+> git cat-file -s 8eb2e8851ef8778ff0cf4b5e9c9be6e3949cae34
+> git show --textconv :src/components/content.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s 971aac823bf4b96d19843badbdd73cdf5c3e6280
+> git show --textconv :src/components/navbar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx
+> git cat-file -s ac3fd874c5ad505fc57697c1b9d75069ffd70563
+> git show --textconv :src/components/content.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s 971aac823bf4b96d19843badbdd73cdf5c3e6280
+> git show --textconv :src/components/navbar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx
+> git cat-file -s ac3fd874c5ad505fc57697c1b9d75069ffd70563
+> git show --textconv :src/components/content.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s 971aac823bf4b96d19843badbdd73cdf5c3e6280
+> git show --textconv :src/components/navbar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx
+> git cat-file -s ac3fd874c5ad505fc57697c1b9d75069ffd70563
+> git show --textconv :src/components/content.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s 971aac823bf4b96d19843badbdd73cdf5c3e6280
+> git show --textconv :src/components/navbar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx
+> git cat-file -s ac3fd874c5ad505fc57697c1b9d75069ffd70563
+> git show --textconv :src/components/content.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s 971aac823bf4b96d19843badbdd73cdf5c3e6280
+> git show --textconv :src/components/navbar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx
+> git cat-file -s ac3fd874c5ad505fc57697c1b9d75069ffd70563
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx
+> git show --textconv :src/components/content.module.scss
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.module.scss
+> git cat-file -s 971aac823bf4b96d19843badbdd73cdf5c3e6280
+> git show --textconv :src/components/navbar.jsx
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx
+> git cat-file -s ac3fd874c5ad505fc57697c1b9d75069ffd70563

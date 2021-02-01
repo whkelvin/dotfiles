@@ -1,0 +1,3847 @@
+["INFO" - 8:14:24 p.m.] Extension Name: esbenp.prettier-vscode.
+["INFO" - 8:14:24 p.m.] Extension Version: 5.8.0.
+["INFO" - 8:14:24 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 8:14:24 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 8:14:24 p.m.] Enabling prettier for languages: ansible, css, graphql, home-assistant, html, javascript, javascriptreact, json, json5, jsonc, less, markdown, mdx, mongo, postcss, scss, typescript, typescriptreact, vue, yaml
+["INFO" - 8:14:24 p.m.] Enabling prettier for file extensions: .JSON-tmLanguage, ._js, .avsc, .bones, .cjs, .component.html, .css, .es, .es6, .frag, .geojson, .gltf, .gql, .graphql, .graphqls, .gs, .har, .htm, .html, .html.hl, .ice, .inc, .jake, .js, .js.flow, .jsb, .jscad, .jsfl, .jsm, .json, .json5, .jsonc, .jss, .jsx, .less, .markdown, .mcmeta, .md, .mdown, .mdwn, .mdx, .mir, .mjml, .mjs, .mkd, .mkdn, .mkdown, .njs, .pac, .pcss, .postcss, .reek, .ronn, .rviz, .scss, .sjs, .ssjs, .st, .sublime-build, .sublime-commands, .sublime-completions, .sublime-keymap, .sublime-macro, .sublime-menu, .sublime-mousemap, .sublime-project, .sublime-settings, .sublime-syntax, .sublime-theme, .sublime-workspace, .sublime_metrics, .sublime_session, .syntax, .tfstate, .tfstate.backup, .topojson, .ts, .tsx, .vue, .webapp, .webmanifest, .workbook, .wxs, .wxss, .xht, .xhtml, .xsjs, .xsjslib, .yaml, .yaml-tmlanguage, .yaml.sed, .yml, .yml.mysql, .yy, .yyp
+["INFO" - 8:14:24 p.m.] Enabling prettier for range supported languages: graphql, javascript, javascriptreact, json, typescript, typescriptreact
+["INFO" - 8:20:49 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:20:49 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:20:49 p.m.] Using bundled version of prettier.
+["INFO" - 8:20:49 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:20:49 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:20:49 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:20:49 p.m.] Formatting completed in 39.745993ms.
+["INFO" - 8:23:47 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:23:47 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:23:47 p.m.] Using bundled version of prettier.
+["INFO" - 8:23:47 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:23:47 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:23:47 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:23:47 p.m.] Formatting completed in 20.900854ms.
+["INFO" - 8:25:35 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:25:35 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:25:35 p.m.] Using bundled version of prettier.
+["INFO" - 8:25:35 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:25:35 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:25:35 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:25:35 p.m.] Formatting completed in 14.066118ms.
+["INFO" - 8:25:36 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:25:36 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:25:36 p.m.] Using bundled version of prettier.
+["INFO" - 8:25:36 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:25:36 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:25:36 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:25:36 p.m.] Formatting completed in 21.132642ms.
+["INFO" - 8:26:07 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:26:07 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:26:07 p.m.] Using bundled version of prettier.
+["INFO" - 8:26:07 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:26:07 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:26:07 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:26:07 p.m.] Formatting completed in 21.737544ms.
+["INFO" - 8:26:22 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx
+["INFO" - 8:26:22 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 8:26:22 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 8:26:22 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 8:26:22 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:26:22 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/navbar.jsx",
+  "parser": "babel"
+}
+["INFO" - 8:26:22 p.m.] Formatting completed in 47.86428ms.
+["INFO" - 8:31:27 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:31:27 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:31:27 p.m.] Using bundled version of prettier.
+["INFO" - 8:31:27 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:31:27 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:31:27 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:31:27 p.m.] Formatting completed in 23.827235ms.
+["INFO" - 8:32:01 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:32:01 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:32:01 p.m.] Using bundled version of prettier.
+["INFO" - 8:32:01 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:32:01 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:32:01 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:32:01 p.m.] Formatting completed in 18.626235ms.
+["INFO" - 8:32:10 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:32:10 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:32:10 p.m.] Using bundled version of prettier.
+["INFO" - 8:32:10 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:32:10 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:32:10 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:32:10 p.m.] Formatting completed in 15.105644ms.
+["INFO" - 8:32:17 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:32:17 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:32:17 p.m.] Using bundled version of prettier.
+["INFO" - 8:32:17 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:32:17 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:32:17 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:32:17 p.m.] Formatting completed in 17.815241ms.
+["INFO" - 8:32:52 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:32:52 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:32:52 p.m.] Using bundled version of prettier.
+["INFO" - 8:32:52 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:32:52 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:32:52 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:32:52 p.m.] Formatting completed in 20.506278ms.
+["INFO" - 8:33:05 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:33:05 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:33:05 p.m.] Using bundled version of prettier.
+["INFO" - 8:33:05 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:33:06 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:33:06 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:33:06 p.m.] Formatting completed in 20.291739ms.
+["INFO" - 8:34:11 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:34:11 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:34:11 p.m.] Using bundled version of prettier.
+["INFO" - 8:34:11 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:34:11 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:34:11 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:34:11 p.m.] Formatting completed in 21.938447ms.
+["INFO" - 8:34:17 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:34:17 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:34:17 p.m.] Using bundled version of prettier.
+["INFO" - 8:34:17 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:34:17 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:34:17 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:34:18 p.m.] Formatting completed in 17.035245ms.
+["INFO" - 8:35:09 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:35:09 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:35:09 p.m.] Using bundled version of prettier.
+["INFO" - 8:35:09 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:35:09 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:35:09 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:35:09 p.m.] Formatting completed in 21.66851ms.
+["INFO" - 8:35:56 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:35:56 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:35:56 p.m.] Using bundled version of prettier.
+["INFO" - 8:35:56 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:35:56 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:35:56 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:35:56 p.m.] Formatting completed in 19.095023ms.
+["INFO" - 8:37:01 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:01 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:01 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:01 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:01 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:01 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:01 p.m.] Formatting completed in 18.339852ms.
+["INFO" - 8:37:04 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:04 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:04 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:04 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:05 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:05 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:05 p.m.] Formatting completed in 15.42107ms.
+["INFO" - 8:37:07 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:07 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:07 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:07 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:07 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:07 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:07 p.m.] Formatting completed in 14.887331ms.
+["INFO" - 8:37:09 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:09 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:09 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:09 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:09 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:09 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:09 p.m.] Formatting completed in 22.748626ms.
+["INFO" - 8:37:12 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:12 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:12 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:12 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:12 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:12 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:12 p.m.] Formatting completed in 21.522803ms.
+["INFO" - 8:37:14 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:14 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:14 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:14 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:14 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:14 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:14 p.m.] Formatting completed in 20.04967ms.
+["INFO" - 8:37:16 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:16 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:16 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:16 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:16 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:16 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:16 p.m.] Formatting completed in 22.160682ms.
+["INFO" - 8:37:17 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:17 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:17 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:17 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:17 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:17 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:17 p.m.] Formatting completed in 19.936112ms.
+["INFO" - 8:37:19 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:19 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:19 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:19 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:19 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:19 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:19 p.m.] Formatting completed in 17.647756ms.
+["INFO" - 8:37:21 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:21 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:21 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:21 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:21 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:21 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:21 p.m.] Formatting completed in 15.610467ms.
+["INFO" - 8:37:23 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:23 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:23 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:23 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:23 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:23 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:23 p.m.] Formatting completed in 16.712962ms.
+["INFO" - 8:37:25 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:25 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:25 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:25 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:25 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:25 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:25 p.m.] Formatting completed in 13.996169ms.
+["INFO" - 8:37:27 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:27 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:27 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:27 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:27 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:27 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:27 p.m.] Formatting completed in 20.186647ms.
+["INFO" - 8:37:28 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:28 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:28 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:28 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:28 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:28 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:28 p.m.] Formatting completed in 16.903102ms.
+["INFO" - 8:37:30 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:30 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:30 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:30 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:30 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:30 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:30 p.m.] Formatting completed in 16.548896ms.
+["INFO" - 8:37:32 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:32 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:32 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:32 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:32 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:32 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:32 p.m.] Formatting completed in 14.373143ms.
+["INFO" - 8:37:33 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:33 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:33 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:33 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:33 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:33 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:33 p.m.] Formatting completed in 16.241501ms.
+["INFO" - 8:37:35 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:35 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:35 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:35 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:35 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:35 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:35 p.m.] Formatting completed in 21.095014ms.
+["INFO" - 8:37:36 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:36 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:36 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:36 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:36 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:36 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:36 p.m.] Formatting completed in 17.961033ms.
+["INFO" - 8:37:38 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:38 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:38 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:38 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:38 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:38 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:38 p.m.] Formatting completed in 17.023058ms.
+["INFO" - 8:37:40 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:40 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:40 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:40 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:40 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:40 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:40 p.m.] Formatting completed in 15.236871ms.
+["INFO" - 8:37:42 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:42 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:42 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:42 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:42 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:42 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:42 p.m.] Formatting completed in 18.310141ms.
+["INFO" - 8:37:44 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:44 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:44 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:44 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:44 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:44 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:44 p.m.] Formatting completed in 26.245807ms.
+["INFO" - 8:37:46 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:46 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:46 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:46 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:46 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:46 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:46 p.m.] Formatting completed in 15.63207ms.
+["INFO" - 8:37:47 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:47 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:47 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:47 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:47 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:47 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:47 p.m.] Formatting completed in 12.625845ms.
+["INFO" - 8:37:49 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:49 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:49 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:49 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:49 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:49 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:49 p.m.] Formatting completed in 15.367821ms.
+["INFO" - 8:37:51 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:51 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:51 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:51 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:51 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:51 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:51 p.m.] Formatting completed in 13.327359ms.
+["INFO" - 8:37:54 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:54 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:54 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:54 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:54 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:54 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:54 p.m.] Formatting completed in 14.309462ms.
+["INFO" - 8:37:55 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:55 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:55 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:55 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:55 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:55 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:55 p.m.] Formatting completed in 12.436192ms.
+["INFO" - 8:37:57 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:37:57 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:37:57 p.m.] Using bundled version of prettier.
+["INFO" - 8:37:57 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:37:57 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:57 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:37:57 p.m.] Formatting completed in 13.88667ms.
+["INFO" - 8:38:00 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:00 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:00 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:00 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:00 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:00 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:00 p.m.] Formatting completed in 17.757702ms.
+["INFO" - 8:38:02 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:02 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:02 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:02 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:02 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:02 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:02 p.m.] Formatting completed in 17.486725ms.
+["INFO" - 8:38:04 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:04 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:04 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:04 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:04 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:04 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:04 p.m.] Formatting completed in 16.643349ms.
+["INFO" - 8:38:06 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:06 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:06 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:06 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:06 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:06 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:06 p.m.] Formatting completed in 22.170021ms.
+["INFO" - 8:38:07 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:07 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:07 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:07 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:07 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:07 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:07 p.m.] Formatting completed in 13.685797ms.
+["INFO" - 8:38:10 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:10 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:10 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:10 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:10 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:10 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:10 p.m.] Formatting completed in 14.329559ms.
+["INFO" - 8:38:12 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:12 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:12 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:12 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:12 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:12 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:12 p.m.] Formatting completed in 16.739415ms.
+["INFO" - 8:38:13 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:13 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:13 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:13 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:13 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:13 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:13 p.m.] Formatting completed in 23.549657ms.
+["INFO" - 8:38:15 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:15 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:15 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:15 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:15 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:15 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:15 p.m.] Formatting completed in 13.624066ms.
+["INFO" - 8:38:16 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:16 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:16 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:16 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:16 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:16 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:16 p.m.] Formatting completed in 18.621391ms.
+["INFO" - 8:38:18 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:18 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:18 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:18 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:18 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:18 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:18 p.m.] Formatting completed in 26.882833ms.
+["INFO" - 8:38:19 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:19 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:19 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:19 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:19 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:19 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:19 p.m.] Formatting completed in 21.706429ms.
+["INFO" - 8:38:21 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:21 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:21 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:21 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:21 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:21 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:21 p.m.] Formatting completed in 19.768447ms.
+["INFO" - 8:38:23 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:23 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:23 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:23 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:23 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:23 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:23 p.m.] Formatting completed in 15.006032ms.
+["INFO" - 8:38:25 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:25 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:25 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:25 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:25 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:25 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:25 p.m.] Formatting completed in 17.537845ms.
+["INFO" - 8:38:27 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:27 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:27 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:27 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:27 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:27 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:27 p.m.] Formatting completed in 15.540256ms.
+["INFO" - 8:38:30 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:30 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:30 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:30 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:30 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:30 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:30 p.m.] Formatting completed in 14.455714ms.
+["INFO" - 8:38:32 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:32 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:32 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:32 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:32 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:32 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:32 p.m.] Formatting completed in 12.74882ms.
+["INFO" - 8:38:34 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:34 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:34 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:34 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:34 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:34 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:34 p.m.] Formatting completed in 13.446451ms.
+["INFO" - 8:38:36 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:36 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:36 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:36 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:36 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:36 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:36 p.m.] Formatting completed in 14.134456ms.
+["INFO" - 8:38:38 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:38 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:38 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:38 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:38 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:38 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:38 p.m.] Formatting completed in 15.546369ms.
+["INFO" - 8:38:40 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:40 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:40 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:40 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:40 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:40 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:40 p.m.] Formatting completed in 14.60388ms.
+["INFO" - 8:38:44 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:44 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:44 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:44 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:44 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:44 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:44 p.m.] Formatting completed in 13.79043ms.
+["INFO" - 8:38:45 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:45 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:45 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:45 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:45 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:45 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:45 p.m.] Formatting completed in 16.019062ms.
+["INFO" - 8:38:46 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:46 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:46 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:46 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:46 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:46 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:46 p.m.] Formatting completed in 14.569963ms.
+["INFO" - 8:38:47 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:47 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:47 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:47 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:47 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:47 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:47 p.m.] Formatting completed in 14.950152ms.
+["INFO" - 8:38:48 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:48 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:48 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:48 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:48 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:48 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:48 p.m.] Formatting completed in 14.160184ms.
+["INFO" - 8:38:49 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:49 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:49 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:49 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:49 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:49 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:49 p.m.] Formatting completed in 16.640616ms.
+["INFO" - 8:38:49 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:49 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:49 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:49 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:49 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:49 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:49 p.m.] Formatting completed in 18.726597ms.
+["INFO" - 8:38:50 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:50 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:50 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:50 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:50 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:50 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:50 p.m.] Formatting completed in 14.1458ms.
+["INFO" - 8:38:50 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:50 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:50 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:50 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:50 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:50 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:50 p.m.] Formatting completed in 18.044396ms.
+["INFO" - 8:38:52 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:52 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:52 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:52 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:52 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:52 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:52 p.m.] Formatting completed in 26.705581ms.
+["INFO" - 8:38:53 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:38:53 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:38:53 p.m.] Using bundled version of prettier.
+["INFO" - 8:38:53 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:38:53 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:53 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:38:53 p.m.] Formatting completed in 14.612416ms.
+["INFO" - 8:39:02 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:02 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:02 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:02 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:02 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:02 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:02 p.m.] Formatting completed in 16.789929ms.
+["INFO" - 8:39:03 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:03 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:03 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:03 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:03 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:03 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:03 p.m.] Formatting completed in 17.431535ms.
+["INFO" - 8:39:03 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:03 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:03 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:03 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:03 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:03 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:03 p.m.] Formatting completed in 15.946754ms.
+["INFO" - 8:39:04 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:04 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:04 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:04 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:04 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:04 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:04 p.m.] Formatting completed in 15.247605ms.
+["INFO" - 8:39:05 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:05 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:05 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:05 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:05 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:05 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:05 p.m.] Formatting completed in 15.670619ms.
+["INFO" - 8:39:05 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:05 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:05 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:05 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:05 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:05 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:05 p.m.] Formatting completed in 16.450284ms.
+["INFO" - 8:39:06 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:06 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:06 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:06 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:06 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:06 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:06 p.m.] Formatting completed in 16.47036ms.
+["INFO" - 8:39:06 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:06 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:06 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:06 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:06 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:06 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:06 p.m.] Formatting completed in 16.270101ms.
+["INFO" - 8:39:07 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:07 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:07 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:07 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:07 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:07 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:07 p.m.] Formatting completed in 16.90144ms.
+["INFO" - 8:39:07 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:07 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:07 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:07 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:07 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:07 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:07 p.m.] Formatting completed in 14.995108ms.
+["INFO" - 8:39:08 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:08 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:08 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:08 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:08 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:08 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:08 p.m.] Formatting completed in 18.560278ms.
+["INFO" - 8:39:08 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:08 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:08 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:08 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:08 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:08 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:08 p.m.] Formatting completed in 15.497189ms.
+["INFO" - 8:39:17 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:17 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:17 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:17 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:17 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:17 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:17 p.m.] Formatting completed in 17.132074ms.
+["INFO" - 8:39:19 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:19 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:19 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:19 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:19 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:19 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:19 p.m.] Formatting completed in 17.927088ms.
+["INFO" - 8:39:20 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:20 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:20 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:20 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:20 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:20 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:20 p.m.] Formatting completed in 19.379183ms.
+["INFO" - 8:39:20 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:20 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:20 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:20 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:20 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:20 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:20 p.m.] Formatting completed in 17.805645ms.
+["INFO" - 8:39:21 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:21 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:21 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:21 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:21 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:21 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:21 p.m.] Formatting completed in 19.41054ms.
+["INFO" - 8:39:22 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:22 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:22 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:22 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:22 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:22 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:22 p.m.] Formatting completed in 16.066933ms.
+["INFO" - 8:39:22 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:22 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:22 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:22 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:22 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:22 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:22 p.m.] Formatting completed in 16.960194ms.
+["INFO" - 8:39:23 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:39:23 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:39:23 p.m.] Using bundled version of prettier.
+["INFO" - 8:39:23 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:39:23 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:23 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:39:23 p.m.] Formatting completed in 15.773073ms.
+["INFO" - 8:40:59 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:40:59 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:40:59 p.m.] Using bundled version of prettier.
+["INFO" - 8:40:59 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:40:59 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:40:59 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:40:59 p.m.] Formatting completed in 20.420361ms.
+["INFO" - 8:41:24 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:41:24 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:41:24 p.m.] Using bundled version of prettier.
+["INFO" - 8:41:24 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:41:24 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:41:24 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:41:24 p.m.] Formatting completed in 32.259916ms.
+["INFO" - 8:42:20 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:42:20 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:42:20 p.m.] Using bundled version of prettier.
+["INFO" - 8:42:20 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:42:20 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:42:20 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:42:20 p.m.] Formatting completed in 27.495081ms.
+["INFO" - 8:42:35 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:42:35 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:42:35 p.m.] Using bundled version of prettier.
+["INFO" - 8:42:35 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:42:35 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:42:35 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:42:35 p.m.] Formatting completed in 20.855508ms.
+["INFO" - 8:42:46 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:42:46 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:42:46 p.m.] Using bundled version of prettier.
+["INFO" - 8:42:46 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:42:46 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:42:46 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:42:46 p.m.] Formatting completed in 20.42243ms.
+["INFO" - 8:42:53 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:42:53 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:42:53 p.m.] Using bundled version of prettier.
+["INFO" - 8:42:53 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:42:53 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:42:53 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:42:53 p.m.] Formatting completed in 19.719075ms.
+["INFO" - 8:43:31 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:43:31 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:43:31 p.m.] Using bundled version of prettier.
+["INFO" - 8:43:31 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:43:31 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:43:31 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:43:31 p.m.] Formatting completed in 26.203891ms.
+["INFO" - 8:43:46 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:43:46 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:43:46 p.m.] Using bundled version of prettier.
+["INFO" - 8:43:46 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:43:46 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:43:46 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:43:46 p.m.] Formatting completed in 20.479797ms.
+["INFO" - 8:43:54 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:43:54 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:43:54 p.m.] Using bundled version of prettier.
+["INFO" - 8:43:54 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:43:54 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:43:54 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:43:54 p.m.] Formatting completed in 25.056467ms.
+["INFO" - 8:44:43 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:44:43 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:44:43 p.m.] Using bundled version of prettier.
+["INFO" - 8:44:43 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:44:43 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:44:43 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:44:43 p.m.] Formatting completed in 23.899856ms.
+["INFO" - 8:45:03 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:45:03 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:45:03 p.m.] Using bundled version of prettier.
+["INFO" - 8:45:03 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:45:03 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:45:03 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:45:03 p.m.] Formatting completed in 21.449958ms.
+["INFO" - 8:45:08 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:45:08 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:45:08 p.m.] Using bundled version of prettier.
+["INFO" - 8:45:08 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:45:08 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:45:08 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:45:08 p.m.] Formatting completed in 25.823273ms.
+["INFO" - 8:45:10 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:45:10 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:45:10 p.m.] Using bundled version of prettier.
+["INFO" - 8:45:10 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:45:10 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:45:10 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:45:10 p.m.] Formatting completed in 17.817962ms.
+["INFO" - 8:45:15 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:45:15 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:45:15 p.m.] Using bundled version of prettier.
+["INFO" - 8:45:15 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:45:15 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:45:15 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:45:15 p.m.] Formatting completed in 17.548053ms.
+["INFO" - 8:45:37 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:45:37 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:45:37 p.m.] Using bundled version of prettier.
+["INFO" - 8:45:37 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:45:37 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:45:37 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:45:37 p.m.] Formatting completed in 22.421183ms.
+["INFO" - 8:48:30 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:48:30 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:48:30 p.m.] Using bundled version of prettier.
+["INFO" - 8:48:30 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:48:30 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:48:30 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:48:30 p.m.] Formatting completed in 28.590614ms.
+["INFO" - 8:52:45 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:52:45 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:52:45 p.m.] Using bundled version of prettier.
+["INFO" - 8:52:45 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:52:45 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:52:45 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:52:45 p.m.] Formatting completed in 31.621526ms.
+["INFO" - 8:53:53 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:53:53 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:53:53 p.m.] Using bundled version of prettier.
+["INFO" - 8:53:53 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:53:53 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:53:53 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:53:53 p.m.] Formatting completed in 28.32549ms.
+["INFO" - 8:53:59 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:53:59 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:53:59 p.m.] Using bundled version of prettier.
+["INFO" - 8:53:59 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:53:59 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:53:59 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:53:59 p.m.] Formatting completed in 28.136944ms.
+["INFO" - 8:56:37 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:56:37 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:56:37 p.m.] Using bundled version of prettier.
+["INFO" - 8:56:37 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:56:37 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:56:37 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:56:37 p.m.] Formatting completed in 26.239478ms.
+["INFO" - 8:57:54 p.m.] Formatting /home/whkelvin/.config/VSCodium/User/keybindings.json
+["INFO" - 8:57:54 p.m.] Using ignore file (if present) at undefined
+["INFO" - 8:57:54 p.m.] Using bundled version of prettier.
+["INFO" - 8:57:54 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:57:54 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:57:54 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/.config/VSCodium/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 8:57:54 p.m.] Formatting completed in 28.994382ms.

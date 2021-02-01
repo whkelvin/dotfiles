@@ -1,0 +1,95 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:static/mds/TerminalEmulator/content.md
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git ls-tree -l HEAD -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git show --textconv :static/mds/TerminalEmulator/content.md
+> git ls-files --stage -- /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/static/mds/TerminalEmulator/content.md
+> git cat-file -s bd6f94f00d46b61b9055e18ac375f3fc58a43167
+> git check-ignore -v -z --stdin

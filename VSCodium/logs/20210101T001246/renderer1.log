@@ -1,0 +1,4 @@
+[2021-01-01 00:12:47.750] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.vscode'
+[2021-01-01 00:18:10.976] [renderer1] [warning] Settings pattern "workbench.fontAliasing" doesn't match any settings
+[2021-01-01 00:18:10.979] [renderer1] [warning] Settings pattern "settingsSync.*" doesn't match any settings
+[2021-01-01 00:18:10.979] [renderer1] [warning] Settings pattern "sync.*" doesn't match any settings

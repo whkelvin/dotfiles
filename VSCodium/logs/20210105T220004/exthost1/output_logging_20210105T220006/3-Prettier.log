@@ -1,0 +1,876 @@
+["INFO" - 10:00:06 p.m.] Extension Name: esbenp.prettier-vscode.
+["INFO" - 10:00:06 p.m.] Extension Version: 5.8.0.
+["INFO" - 10:00:06 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 10:00:06 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 10:00:06 p.m.] Enabling prettier for languages: ansible, css, graphql, home-assistant, html, javascript, javascriptreact, json, json5, jsonc, less, markdown, mdx, mongo, postcss, scss, typescript, typescriptreact, vue, yaml
+["INFO" - 10:00:06 p.m.] Enabling prettier for file extensions: .JSON-tmLanguage, ._js, .avsc, .bones, .cjs, .component.html, .css, .es, .es6, .frag, .geojson, .gltf, .gql, .graphql, .graphqls, .gs, .har, .htm, .html, .html.hl, .ice, .inc, .jake, .js, .js.flow, .jsb, .jscad, .jsfl, .jsm, .json, .json5, .jsonc, .jss, .jsx, .less, .markdown, .mcmeta, .md, .mdown, .mdwn, .mdx, .mir, .mjml, .mjs, .mkd, .mkdn, .mkdown, .njs, .pac, .pcss, .postcss, .reek, .ronn, .rviz, .scss, .sjs, .ssjs, .st, .sublime-build, .sublime-commands, .sublime-completions, .sublime-keymap, .sublime-macro, .sublime-menu, .sublime-mousemap, .sublime-project, .sublime-settings, .sublime-syntax, .sublime-theme, .sublime-workspace, .sublime_metrics, .sublime_session, .syntax, .tfstate, .tfstate.backup, .topojson, .ts, .tsx, .vue, .webapp, .webmanifest, .workbook, .wxs, .wxss, .xht, .xhtml, .xsjs, .xsjslib, .yaml, .yaml-tmlanguage, .yaml.sed, .yml, .yml.mysql, .yy, .yyp
+["INFO" - 10:00:06 p.m.] Enabling prettier for range supported languages: graphql, javascript, javascriptreact, json, typescript, typescriptreact
+["INFO" - 10:30:52 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx
+["INFO" - 10:30:52 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 10:30:52 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 10:30:52 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:30:52 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:30:52 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx",
+  "parser": "babel"
+}
+["INFO" - 10:30:52 p.m.] Formatting completed in 84.599341ms.
+["INFO" - 10:31:16 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx
+["INFO" - 10:31:16 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 10:31:16 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 10:31:16 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:31:16 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:31:16 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx",
+  "parser": "babel"
+}
+["INFO" - 10:31:16 p.m.] Formatting completed in 25.364048ms.
+["INFO" - 10:32:20 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx
+["INFO" - 10:32:20 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 10:32:20 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 10:32:20 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:32:20 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:32:20 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx",
+  "parser": "babel"
+}
+["INFO" - 10:32:20 p.m.] Formatting completed in 20.103147ms.
+["INFO" - 10:32:48 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx
+["INFO" - 10:32:48 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 10:32:48 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 10:32:48 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:32:48 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:32:48 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx",
+  "parser": "babel"
+}
+["INFO" - 10:32:48 p.m.] Formatting completed in 19.977504ms.
+["INFO" - 9:20:56 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:20:56 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:20:56 p.m.] Enabling prettier for languages: ansible, css, graphql, home-assistant, html, javascript, javascriptreact, json, json5, jsonc, less, markdown, mdx, mongo, postcss, scss, typescript, typescriptreact, vue, yaml
+["INFO" - 9:20:56 p.m.] Enabling prettier for file extensions: .JSON-tmLanguage, ._js, .avsc, .bones, .cjs, .component.html, .css, .es, .es6, .frag, .geojson, .gltf, .gql, .graphql, .graphqls, .gs, .har, .htm, .html, .html.hl, .ice, .inc, .jake, .js, .js.flow, .jsb, .jscad, .jsfl, .jsm, .json, .json5, .jsonc, .jss, .jsx, .less, .markdown, .mcmeta, .md, .mdown, .mdwn, .mdx, .mir, .mjml, .mjs, .mkd, .mkdn, .mkdown, .njs, .pac, .pcss, .postcss, .reek, .ronn, .rviz, .scss, .sjs, .ssjs, .st, .sublime-build, .sublime-commands, .sublime-completions, .sublime-keymap, .sublime-macro, .sublime-menu, .sublime-mousemap, .sublime-project, .sublime-settings, .sublime-syntax, .sublime-theme, .sublime-workspace, .sublime_metrics, .sublime_session, .syntax, .tfstate, .tfstate.backup, .topojson, .ts, .tsx, .vue, .webapp, .webmanifest, .workbook, .wxs, .wxss, .xht, .xhtml, .xsjs, .xsjslib, .yaml, .yaml-tmlanguage, .yaml.sed, .yml, .yml.mysql, .yy, .yyp
+["INFO" - 9:20:56 p.m.] Enabling prettier for range supported languages: graphql, javascript, javascriptreact, json, typescript, typescriptreact
+["INFO" - 9:20:56 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:20:56 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:20:56 p.m.] Enabling prettier for languages: ansible, css, graphql, home-assistant, html, javascript, javascriptreact, json, json5, jsonc, less, markdown, mdx, mongo, postcss, scss, typescript, typescriptreact, vue, yaml
+["INFO" - 9:20:56 p.m.] Enabling prettier for file extensions: .JSON-tmLanguage, ._js, .avsc, .bones, .cjs, .component.html, .css, .es, .es6, .frag, .geojson, .gltf, .gql, .graphql, .graphqls, .gs, .har, .htm, .html, .html.hl, .ice, .inc, .jake, .js, .js.flow, .jsb, .jscad, .jsfl, .jsm, .json, .json5, .jsonc, .jss, .jsx, .less, .markdown, .mcmeta, .md, .mdown, .mdwn, .mdx, .mir, .mjml, .mjs, .mkd, .mkdn, .mkdown, .njs, .pac, .pcss, .postcss, .reek, .ronn, .rviz, .scss, .sjs, .ssjs, .st, .sublime-build, .sublime-commands, .sublime-completions, .sublime-keymap, .sublime-macro, .sublime-menu, .sublime-mousemap, .sublime-project, .sublime-settings, .sublime-syntax, .sublime-theme, .sublime-workspace, .sublime_metrics, .sublime_session, .syntax, .tfstate, .tfstate.backup, .topojson, .ts, .tsx, .vue, .webapp, .webmanifest, .workbook, .wxs, .wxss, .xht, .xhtml, .xsjs, .xsjslib, .yaml, .yaml-tmlanguage, .yaml.sed, .yml, .yml.mysql, .yy, .yyp
+["INFO" - 9:20:56 p.m.] Enabling prettier for range supported languages: graphql, javascript, javascriptreact, json, typescript, typescriptreact
+["INFO" - 9:22:28 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/gatsby-config.js
+["INFO" - 9:22:28 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:22:28 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:22:28 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 9:22:28 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:22:28 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/gatsby-config.js",
+  "parser": "babel",
+  "rangeEnd": 865,
+  "rangeStart": 365
+}
+["ERROR" - 9:22:28 p.m.] Error formatting document.
+["ERROR" - 9:22:28 p.m.] Unexpected token (33:5)
+  31 |       ],
+  32 |     },
+> 33 |     ],
+     |     ^
+  34 | }
+  35 | 
+SyntaxError: Unexpected token (33:5)
+  31 |       ],
+  32 |     },
+> 33 |     ],
+     |     ^
+  34 | }
+  35 | 
+	at t (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/parser-babel.js:1:379)
+	at Object.parse (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/parser-babel.js:1:346226)
+	at Object.parse (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js:13625:19)
+	at formatRange (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js:14986:14)
+	at format (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js:15125:14)
+	at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js:57542:12
+	at Object.format (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js:57562:12)
+	at t.default.<anonymous> (/home/whkelvin/.vscode-oss/extensions/esbenp.prettier-vscode-5.8.0/dist/extension.js:1:17599)
+	at Generator.next (<anonymous>)
+	at s (/home/whkelvin/.vscode-oss/extensions/esbenp.prettier-vscode-5.8.0/dist/extension.js:1:11597)
+["INFO" - 9:22:28 p.m.] Formatting completed in 46.922744ms.
+["INFO" - 9:24:11 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/gatsby-config.js
+["INFO" - 9:24:11 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:24:11 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:24:11 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 9:24:11 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:24:11 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/gatsby-config.js",
+  "parser": "babel"
+}
+["INFO" - 9:24:11 p.m.] Formatting completed in 26.051878ms.
+["INFO" - 9:27:45 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx
+["INFO" - 9:27:45 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:27:45 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:27:45 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 9:27:45 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:27:45 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx",
+  "parser": "babel"
+}
+["ERROR" - 9:27:45 p.m.] Error formatting document.
+["ERROR" - 9:27:45 p.m.] Unexpected token, expected "}" (22:34)
+  20 |                                  
+  21 |   return (                       
+> 22 |     <div className={contentStyl  e.content}>
+     |                                  ^
+  23 |       <div                       
+  24 |         dangerouslySetInnerHTML={{
+  25 |           __html: data.allMarkdownRemark.nodes[0].html,
+SyntaxError: Unexpected token, expected "}" (22:34)
+  20 |                                  
+  21 |   return (                       
+> 22 |     <div className={contentStyl  e.content}>
+     |                                  ^
+  23 |       <div                       
+  24 |         dangerouslySetInnerHTML={{
+  25 |           __html: data.allMarkdownRemark.nodes[0].html,
+	at t (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/parser-babel.js:1:379)
+	at Object.parse (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/parser-babel.js:1:346226)
+	at Object.parse (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js:13625:19)
+	at coreFormat (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js:14899:14)
+	at format (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js:15131:14)
+	at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js:57542:12
+	at Object.format (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js:57562:12)
+	at t.default.<anonymous> (/home/whkelvin/.vscode-oss/extensions/esbenp.prettier-vscode-5.8.0/dist/extension.js:1:17599)
+	at Generator.next (<anonymous>)
+	at s (/home/whkelvin/.vscode-oss/extensions/esbenp.prettier-vscode-5.8.0/dist/extension.js:1:11597)
+["INFO" - 9:27:45 p.m.] Formatting completed in 24.982419ms.
+["INFO" - 9:27:53 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx
+["INFO" - 9:27:53 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:27:53 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:27:53 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 9:27:53 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:27:53 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx",
+  "parser": "babel"
+}
+["ERROR" - 9:27:53 p.m.] Error formatting document.
+["ERROR" - 9:27:53 p.m.] Unexpected token, expected "}" (23:34)
+  21 |                                  
+  22 |   return (                       
+> 23 |     <div className={contentStyl  e.content}>
+     |                                  ^
+  24 |       <div                       
+  25 |         dangerouslySetInnerHTML={{
+  26 |           __html: data.allMarkdownRemark.nodes[0].html,
+SyntaxError: Unexpected token, expected "}" (23:34)
+  21 |                                  
+  22 |   return (                       
+> 23 |     <div className={contentStyl  e.content}>
+     |                                  ^
+  24 |       <div                       
+  25 |         dangerouslySetInnerHTML={{
+  26 |           __html: data.allMarkdownRemark.nodes[0].html,
+	at t (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/parser-babel.js:1:379)
+	at Object.parse (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/parser-babel.js:1:346226)
+	at Object.parse (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js:13625:19)
+	at coreFormat (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js:14899:14)
+	at format (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js:15131:14)
+	at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js:57542:12
+	at Object.format (/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js:57562:12)
+	at t.default.<anonymous> (/home/whkelvin/.vscode-oss/extensions/esbenp.prettier-vscode-5.8.0/dist/extension.js:1:17599)
+	at Generator.next (<anonymous>)
+	at s (/home/whkelvin/.vscode-oss/extensions/esbenp.prettier-vscode-5.8.0/dist/extension.js:1:11597)
+["INFO" - 9:27:53 p.m.] Formatting completed in 14.960602ms.
+["INFO" - 9:28:10 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx
+["INFO" - 9:28:10 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:28:10 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:28:10 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 9:28:10 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:28:10 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx",
+  "parser": "babel"
+}
+["INFO" - 9:28:10 p.m.] Formatting completed in 29.174815ms.
+["INFO" - 9:31:17 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/mds/MyUbuntuSetUp/content.md
+["INFO" - 9:31:17 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:31:17 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:31:17 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 9:31:17 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:31:17 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/mds/MyUbuntuSetUp/content.md",
+  "parser": "markdown"
+}
+["INFO" - 9:31:17 p.m.] Formatting completed in 168.870559ms.
+["INFO" - 9:32:47 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/mds/MyUbuntuSetUp/content.md
+["INFO" - 9:32:47 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:32:47 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:32:47 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 9:32:47 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:32:47 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/mds/MyUbuntuSetUp/content.md",
+  "parser": "markdown"
+}
+["INFO" - 9:32:47 p.m.] Formatting completed in 124.596308ms.
+["INFO" - 9:33:07 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/mds/MyUbuntuSetUp/content.md
+["INFO" - 9:33:07 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:33:07 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:33:07 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 9:33:07 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:33:07 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/mds/MyUbuntuSetUp/content.md",
+  "parser": "markdown"
+}
+["INFO" - 9:33:07 p.m.] Formatting completed in 102.362257ms.
+["INFO" - 9:35:08 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:35:08 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:35:08 p.m.] Enabling prettier for languages: ansible, css, graphql, home-assistant, html, javascript, javascriptreact, json, json5, jsonc, less, markdown, mdx, mongo, postcss, scss, typescript, typescriptreact, vue, yaml
+["INFO" - 9:35:08 p.m.] Enabling prettier for file extensions: .JSON-tmLanguage, ._js, .avsc, .bones, .cjs, .component.html, .css, .es, .es6, .frag, .geojson, .gltf, .gql, .graphql, .graphqls, .gs, .har, .htm, .html, .html.hl, .ice, .inc, .jake, .js, .js.flow, .jsb, .jscad, .jsfl, .jsm, .json, .json5, .jsonc, .jss, .jsx, .less, .markdown, .mcmeta, .md, .mdown, .mdwn, .mdx, .mir, .mjml, .mjs, .mkd, .mkdn, .mkdown, .njs, .pac, .pcss, .postcss, .reek, .ronn, .rviz, .scss, .sjs, .ssjs, .st, .sublime-build, .sublime-commands, .sublime-completions, .sublime-keymap, .sublime-macro, .sublime-menu, .sublime-mousemap, .sublime-project, .sublime-settings, .sublime-syntax, .sublime-theme, .sublime-workspace, .sublime_metrics, .sublime_session, .syntax, .tfstate, .tfstate.backup, .topojson, .ts, .tsx, .vue, .webapp, .webmanifest, .workbook, .wxs, .wxss, .xht, .xhtml, .xsjs, .xsjslib, .yaml, .yaml-tmlanguage, .yaml.sed, .yml, .yml.mysql, .yy, .yyp
+["INFO" - 9:35:08 p.m.] Enabling prettier for range supported languages: graphql, javascript, javascriptreact, json, typescript, typescriptreact
+["INFO" - 9:35:08 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:35:08 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:35:08 p.m.] Enabling prettier for languages: ansible, css, graphql, home-assistant, html, javascript, javascriptreact, json, json5, jsonc, less, markdown, mdx, mongo, postcss, scss, typescript, typescriptreact, vue, yaml
+["INFO" - 9:35:08 p.m.] Enabling prettier for file extensions: .JSON-tmLanguage, ._js, .avsc, .bones, .cjs, .component.html, .css, .es, .es6, .frag, .geojson, .gltf, .gql, .graphql, .graphqls, .gs, .har, .htm, .html, .html.hl, .ice, .inc, .jake, .js, .js.flow, .jsb, .jscad, .jsfl, .jsm, .json, .json5, .jsonc, .jss, .jsx, .less, .markdown, .mcmeta, .md, .mdown, .mdwn, .mdx, .mir, .mjml, .mjs, .mkd, .mkdn, .mkdown, .njs, .pac, .pcss, .postcss, .reek, .ronn, .rviz, .scss, .sjs, .ssjs, .st, .sublime-build, .sublime-commands, .sublime-completions, .sublime-keymap, .sublime-macro, .sublime-menu, .sublime-mousemap, .sublime-project, .sublime-settings, .sublime-syntax, .sublime-theme, .sublime-workspace, .sublime_metrics, .sublime_session, .syntax, .tfstate, .tfstate.backup, .topojson, .ts, .tsx, .vue, .webapp, .webmanifest, .workbook, .wxs, .wxss, .xht, .xhtml, .xsjs, .xsjslib, .yaml, .yaml-tmlanguage, .yaml.sed, .yml, .yml.mysql, .yy, .yyp
+["INFO" - 9:35:08 p.m.] Enabling prettier for range supported languages: graphql, javascript, javascriptreact, json, typescript, typescriptreact
+["INFO" - 9:38:23 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/gatsby-config.js
+["INFO" - 9:38:23 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:38:23 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:38:23 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 9:38:23 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:38:23 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/gatsby-config.js",
+  "parser": "babel"
+}
+["INFO" - 9:38:23 p.m.] Formatting completed in 66.868658ms.
+["INFO" - 9:42:55 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+["INFO" - 9:42:55 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:42:55 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:42:55 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 9:42:55 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:42:55 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss",
+  "parser": "scss"
+}
+["INFO" - 9:42:55 p.m.] Formatting completed in 30.931066ms.
+["INFO" - 9:43:13 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/mds/MyUbuntuSetUp/content.md
+["INFO" - 9:43:13 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:43:13 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:43:13 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 9:43:13 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:43:13 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/mds/MyUbuntuSetUp/content.md",
+  "parser": "markdown"
+}
+["INFO" - 9:43:13 p.m.] Formatting completed in 149.683757ms.
+["INFO" - 9:43:46 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+["INFO" - 9:43:46 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:43:46 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:43:46 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 9:43:46 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:43:46 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss",
+  "parser": "scss"
+}
+["INFO" - 9:43:46 p.m.] Formatting completed in 17.934238ms.
+["INFO" - 9:43:53 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+["INFO" - 9:43:53 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:43:53 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:43:53 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 9:43:53 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:43:53 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss",
+  "parser": "scss"
+}
+["INFO" - 9:43:53 p.m.] Formatting completed in 18.945433ms.
+["INFO" - 9:46:26 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+["INFO" - 9:46:26 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:46:26 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:46:26 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 9:46:26 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:46:26 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss",
+  "parser": "scss"
+}
+["INFO" - 9:46:26 p.m.] Formatting completed in 21.670581ms.
+["INFO" - 9:49:39 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+["INFO" - 9:49:39 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:49:39 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:49:39 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 9:49:39 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:49:39 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss",
+  "parser": "scss"
+}
+["INFO" - 9:49:39 p.m.] Formatting completed in 21.392843ms.
+["INFO" - 9:50:41 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx
+["INFO" - 9:50:41 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:50:41 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:50:41 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 9:50:41 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:50:41 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx",
+  "parser": "babel"
+}
+["INFO" - 9:50:41 p.m.] Formatting completed in 41.651255ms.
+["INFO" - 9:51:30 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx
+["INFO" - 9:51:30 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:51:30 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:51:30 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 9:51:30 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:51:30 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx",
+  "parser": "babel"
+}
+["INFO" - 9:51:30 p.m.] Formatting completed in 20.694567ms.
+["INFO" - 9:51:55 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx
+["INFO" - 9:51:55 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:51:55 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:51:55 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 9:51:55 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:51:55 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/components/content.jsx",
+  "parser": "babel"
+}
+["INFO" - 9:51:55 p.m.] Formatting completed in 26.088224ms.
+["INFO" - 9:53:46 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+["INFO" - 9:53:46 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:53:46 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:53:46 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 9:53:46 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:53:46 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss",
+  "parser": "scss"
+}
+["INFO" - 9:53:46 p.m.] Formatting completed in 25.412579ms.
+["INFO" - 9:56:17 p.m.] Formatting /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss
+["INFO" - 9:56:17 p.m.] Using ignore file (if present) at /home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/.prettierignore
+["INFO" - 9:56:17 p.m.] Loaded module 'prettier@2.2.1' from '/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/node_modules/prettier/index.js'
+["INFO" - 9:56:17 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 9:56:17 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:56:17 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/whkelvin/Projects/Gatsby/RootxSnow/rootxsnow/src/styles/global.scss",
+  "parser": "scss"
+}
+["INFO" - 9:56:17 p.m.] Formatting completed in 16.902353ms.
